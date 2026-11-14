@@ -1,9 +1,19 @@
+<h1 align="center">Cóndor SGA</h1>
+
+<p align="center">Sistema académico distribuido con Django y PostgreSQL para gestión de facultades, inscripciones, notas, matrículas y homologaciones.</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Proyecto-Django%20%C2%B7%20PostgreSQL-214e54" alt="Django · PostgreSQL">
+</p>
+
+[Diagrama de componentes](docs/diagrams/component_dependencies.png) · [Secuencia de inscripciones y notas](docs/diagrams/sequence_inscripciones_notas.png)
+
 <div align="center">
 
   <img src="backend/media/ChatGPT Image Jun 3, 2026, 06_11_27 PM (1).png" alt="Cóndor SGA" width="180"/>
 
 
-  # Sistema Distribuido de Gestión Académica Universitaria
+  ## Vista general
 
   **Aplicación web académica construida con Django y PostgreSQL para la gestión integral de procesos universitarios en una arquitectura orientada a distribución por facultades.**
 
