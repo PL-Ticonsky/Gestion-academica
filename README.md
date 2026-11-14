@@ -3,6 +3,10 @@
 <p align="center">Sistema académico distribuido con Django y PostgreSQL para gestión de facultades, inscripciones, notas, matrículas y homologaciones.</p>
 
 <p align="center">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/Licencia-MIT-184b3a" alt="Licencia MIT"></a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Proyecto-Django%20%C2%B7%20PostgreSQL-214e54" alt="Django · PostgreSQL">
 </p>
 
